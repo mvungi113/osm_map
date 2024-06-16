@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882402342792",
+    "project_id": "traffic-bcd4a",
+    "storage_bucket": "traffic-bcd4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882402342792:android:fa750a126c3add313fec3d",
+        "android_client_info": {
+          "package_name": "com.example.trafficopt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjsT4C5jOOUqKQ8KhRKiKuFyeXSjjUA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
