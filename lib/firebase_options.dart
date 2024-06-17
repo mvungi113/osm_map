@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAWjsT4C5jOOUqKQ8KhRKiKuFyeXSjjUA8',
-    appId: '1:882402342792:android:fa750a126c3add313fec3d',
-    messagingSenderId: '882402342792',
-    projectId: 'traffic-bcd4a',
-    storageBucket: 'traffic-bcd4a.appspot.com',
+    apiKey: 'Your key',
+    appId: 'your key',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1ggPmQlBULMbrT-w-NUcFRo4VnxYrl-I',
-    appId: '1:882402342792:ios:c2ae303ccdb4ea1b3fec3d',
+    apiKey: 'enter your Android key',
+    appId: 'enter your ios key',
     messagingSenderId: '882402342792',
-    projectId: 'traffic-bcd4a',
-    storageBucket: 'traffic-bcd4a.appspot.com',
+    projectId: 'traffic',
+    storageBucket: 'traffic.appspot.com',
     iosBundleId: 'com.example.trafficopt',
   );
 }
